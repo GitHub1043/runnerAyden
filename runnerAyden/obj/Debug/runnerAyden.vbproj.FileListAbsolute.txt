@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\bin\Debug\runnerAyden.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\bin\Debug\runnerAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\bin\Debug\runnerAyden.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\bin\Debug\runnerAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\obj\Debug\runnerAyden.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\obj\Debug\runnerAyden.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\obj\Debug\runnerAyden.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\obj\Debug\runnerAyden.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\obj\Debug\runnerAyden.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\VariablesAyden\runnerAyden\runnerAyden\obj\Debug\runnerAyden.pdb
